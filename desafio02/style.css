@@ -1,0 +1,62 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url(img.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+h1 {
+  color: #ebf1fb;
+  text-align: center;
+  font-size: 64px;
+  font-family: Beth Ellen;
+  font-weight: 400;
+  line-height: 120px;
+
+  padding-top: 275px;
+}
+h1 span {
+  color: #5eead4;
+}
+p {
+  color: #ebf1fb;
+  text-align: center;
+  font-size: 20px;
+  font-family: Spectral;
+  font-weight: 500;
+  line-height: normal;
+
+  padding-top: 4px;
+  padding-bottom: 72px;
+}
+.links{
+  text-align: center;
+}
+a{
+  color: #ebf1fb;
+  text-align: center;
+  font-size: 24px;
+  font-family: Spectral;
+  font-weight: 600;
+  line-height: 24px;
+  text-decoration: none;
+  padding: 16px 32px;
+  border-radius: 32px;
+}
+.recipes {
+  background-color: #5eead4;
+  color: #0b0c0e;
+  border-radius: 32px;
+  text-decoration: none;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 24px;
+  font-family: Spectral;
+  font-weight: 600;
+  line-height: 24px;
+}
